@@ -1,0 +1,167 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.texts{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+.half-widthOne{
+    width: 40%;
+    float: left;
+    padding-left: 8%;
+    padding-top: 8%;
+    margin-left: 2%;
+}
+.half-widthOne h2{
+    color: black;
+    font-weight: 500;
+}
+.half-widthOne h1{
+    color: #ff4891;
+    font-weight: 800;
+}
+.button_color{
+    color: white;
+    background-image: linear-gradient(45deg,deeppink,#ff4891) ;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.half-widthTwo img{
+    width: 80%;
+    margin-top: 50px;
+
+}
+.half-widthOne img{
+    width: 80%;
+    margin-top: 50px;
+}
+.half-widthTwo{
+    width: 50%;
+    float: left;
+}
+
+.background-top{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 800px;
+}
+.half-widthDream{
+    width: 40%;
+    float: left;
+    padding-left: 4%;
+    padding-top: 4%;
+    margin-left: 2%;
+}
+.half-widthDreamImage{
+    width: 40%;
+    float: left;
+    padding-left: 7%;
+}
+.background-second{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 150px;
+}
+#work{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#inkypinky{
+    color: #ff4891;
+}
+.image{
+    width: 20%;
+    float: left;
+    align-content: center;
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    border-radius: 5px;
+    background: white;
+}
+#img1{
+    margin-left: 20%;
+}
+#img2{
+    margin-left: 2%;
+}
+#img3{
+    margin-left: 2%;
+}
+.background-projects{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 15%;
+}
+.center{
+    text-align: center;
+    word-break:keep-all;
+}
+#ceotxt{
+    font-weight: normal;
+}
+
+#colorized-button{
+    color: white;
+    background-image: linear-gradient(85deg, hotpink, #ff4891);
+    padding: 30px 60px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    margin-top: 80px;
+    box-shadow: 20px 20px 50px gray;
+}
+#h4{
+    font-weight: normal;
+}
+.last-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.footer{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.border{
+    border: 3px black solid ;
+    width: 27%;
+    height: 30%;
+    float: left;
+    margin-top: 100px;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 4%;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.border:hover{
+    color: white;
+    background-image: linear-gradient(45deg,#ff4891,tomato);
+    width: 25%;
+    height: 28%;
+
+}
+.center-elements{
+    text-align: center;
+
+}
+.color{
+    color: #ff4891;
+}
+.light-text{
+    font-weight: normal;
+}
